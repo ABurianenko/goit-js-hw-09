@@ -25,3 +25,14 @@
 img {
     color: #fff
 }
+
+.sl-wrapper {
+    background-color: #2E2F42;
+}
+
+.sl-wrapper div.sl-counter,
+.sl-wrapper button.sl-close,
+.sl-wrapper .sl-navigation button.sl-next,
+.sl-wrapper .sl-navigation button.sl-prev {
+    color: #fff;
+}
